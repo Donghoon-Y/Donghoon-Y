@@ -1,3 +1,5 @@
+<h3 align="left"> Major </h3>
+<h1 align="left">🚀 Aerospace Engineering🚀 </h1>
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
