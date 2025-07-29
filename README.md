@@ -10,7 +10,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />&nbsp
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+  
 </div>
 
 <h3 align="left">🛠 Tools 🛠</h3>
